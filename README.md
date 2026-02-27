@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
-# 🥷 RepoNinja - Ai-For-Bharat Hackathon
--TeamZypher
+# RepoNinja - Ai-For-Bharat Hackathon
+-TeamZyhper
 
 > ⚡ Understand any GitHub repository in seconds, not hours. Powered by Google Gemini AI.
 
