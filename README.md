@@ -25,6 +25,38 @@ RepoNinja eliminates this friction. It connects to any public GitHub repository 
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshot/Image1.png" alt="RepoNinja Landing Page" width="100%" />
+</p>
+<p align="center"><em>Landing Page -- Paste any GitHub URL and let AI do the rest</em></p>
+
+<br />
+
+<p align="center">
+  <img src="screenshot/image2.png" alt="RepoNinja Workspace" width="100%" />
+</p>
+<p align="center"><em>Workspace -- File Explorer, Code Viewer, and AI Explanations side by side</em></p>
+
+<br />
+
+<p align="center">
+  <img src="screenshot/image3.png" alt="AI Explanation Panel" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshot/image5.png" alt="Guided Walkthrough" width="45%" />
+</p>
+<p align="center"><em>AI Explanations (left) &bull; Guided Walkthrough with "I Have Doubts" (right)</em></p>
+
+<br />
+
+<p align="center">
+  <img src="screenshot/image4.png" alt="Architecture Flow Diagram" width="50%" />
+</p>
+<p align="center"><em>Architecture Flow -- Interactive Mermaid diagrams with Overview, Simple, and Deep views</em></p>
+
+---
+
 ## ✨ Features
 
 ### 📊 Repository Analysis
