@@ -7,25 +7,25 @@
 # RepoNinja - Ai-For-Bharat Hackathon
 -TeamZyhper
 
-> ⚡ Understand any GitHub repository in seconds, not hours. Powered by Google Gemini AI.
+> Understand any GitHub repository in seconds, not hours. Powered by Google Gemini AI.
 
 RepoNinja is an AI-powered repository analysis tool that transforms the way developers explore and understand codebases. Paste any public GitHub repository URL, and RepoNinja instantly generates a comprehensive breakdown -- architecture diagrams, file-by-file explanations, guided walkthroughs, and an intelligent chat interface to ask questions about the code.
 
-Built for the **AI for Bharat** hackathon, a nationwide initiative bringing together India's brightest developers to learn, innovate, and transform the country's AI landscape. 🇮🇳
+Built for the **AI for Bharat** hackathon, a nationwide initiative bringing together India's brightest developers to learn, innovate, and transform the country's AI landscape.
 
 ---
 
-## 🔍 The Problem
+## The Problem
 
 Onboarding onto a new codebase is one of the biggest time sinks in software development. Developers spend hours reading through unfamiliar files, tracing execution flows, and piecing together how components connect. Documentation is often outdated or missing entirely.
 
-## 💡 The Solution
+## The Solution
 
 RepoNinja eliminates this friction. It connects to any public GitHub repository via the GitHub API, fetches the codebase, and uses Google Gemini to generate deep, contextual understanding of the entire project -- instantly.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshot/Image1.png" alt="RepoNinja Landing Page" width="100%" />
@@ -57,29 +57,29 @@ RepoNinja eliminates this friction. It connects to any public GitHub repository 
 
 ---
 
-## ✨ Features
+## Features
 
-### 📊 Repository Analysis
+### Repository Analysis
 Automatically scans the repository structure, identifies key files, and generates a high-level summary covering the tech stack, architecture patterns, and project purpose.
 
-### 📁 Interactive File Explorer
+### Interactive File Explorer
 A full file tree with syntax-highlighted code viewing. Click any file or folder to get an AI-generated explanation of what it does and how it fits into the larger codebase.
 
-### 🗺️ Architecture Flow Diagrams
+### Architecture Flow Diagrams
 Generates interactive Mermaid.js diagrams that visualize the project architecture -- showing how modules, services, and components connect and communicate.
 
-### 🚶 Guided Walkthroughs
+### Guided Walkthroughs
 Step-by-step AI-generated walkthroughs that guide you through the codebase file by file, explaining the purpose, key logic, and relationships of each component.
 
-### 💬 AI Chat
+### AI Chat
 A context-aware chat interface where you can ask any question about the repository. The AI understands the full codebase context, so you get accurate, specific answers.
 
-### ⚙️ Smart Caching
+### Smart Caching
 Previously analyzed repositories are cached locally, so revisiting a project loads instantly without re-fetching or re-analyzing.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer      | Technology                                        |
 |------------|---------------------------------------------------|
@@ -93,7 +93,7 @@ Previously analyzed repositories are cached locally, so revisiting a project loa
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -149,11 +149,11 @@ npm run dev
 
 5. **Open in browser**
 
-Navigate to `http://localhost:5173` and paste any GitHub repository URL to get started. 🎉
+Navigate to `http://localhost:5173` and paste any GitHub repository URL to get started.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 reponinja/
@@ -189,7 +189,7 @@ reponinja/
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint            | Description                              |
 |--------|---------------------|------------------------------------------|
@@ -202,7 +202,7 @@ reponinja/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ```
 GitHub URL --> GitHub API --> Fetch Repo Tree & Key Files
@@ -223,7 +223,7 @@ GitHub URL --> GitHub API --> Fetch Repo Tree & Key Files
 
 ---
 
-## 👥 Team
+## Team
 
 **TeamZypher**
 
@@ -236,7 +236,7 @@ GitHub URL --> GitHub API --> Fetch Repo Tree & Key Files
 
 ---
 
-## 🏆 Hackathon
+## Hackathon
 
 **AI for Bharat** is a two-phase program designed to help developers in India turn AI theory into practice. Through curated workshops and challenges, participants learn key tools and gain hands-on experience building real-world AI applications.
 
@@ -244,6 +244,6 @@ This project was built as part of this nationwide movement to innovate and trans
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
